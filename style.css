@@ -6,27 +6,57 @@
 .body{
    background: white;
    font-family: Arial, Helvetica, sans-serif;
+   overflow: hidden;
+   height: 100%;
 }
  
 .Stewie{
-    display: flex;
-    /* justify-content: space-between; */
-    gap: 100px;
+      display: flex; 
+     /* justify-content: space-between;  */
+     gap: 70px;  
     text-decoration: none;
+
       /* background-color: rgb(128, 122, 122);   */
+    height: 100px;
 }
+
 .wie a{
   text-decoration: none;
 }
+.wie img{
+  position: relative;
+  bottom: 18px;
+  left: 55px;
+}
 .tew a{
+  text-decoration: none;
+}
+.tew img{
+  position: relative;
+  bottom: 18px;
+  left: 65px;
+}
+.tew1 img{
+  /* text-decoration: none */
+  position: relative;
+  bottom: 17px;
+  left: 97px;
+}
+.tew1 a{
   text-decoration: none;
 }
 .te a{
   text-decoration: none;
 }
+.te img{
+  position: relative;
+  bottom: 17px;
+  left: 68px;
+}
 .gift a{
   text-decoration: none;
 }
+
 .fit a{
   text-decoration: none;
 }
@@ -86,6 +116,7 @@
   position: relative;
   bottom: 20px;
   font-size: 20px;
+  width: 70px;
  }
  .Gif h1{
   background: rgb(1, 1, 88);
@@ -97,6 +128,7 @@
   position: relative;
   bottom: 20px;
   right: 35px;
+  width: 70px;
  }
 
  /* .tee #log{
@@ -122,6 +154,10 @@
  .lig video{
    width: 750px;
  }
+ .pac img{
+  width: 1300px;
+ }
+ 
  
  .money{
    display: flex;
@@ -304,7 +340,7 @@
       border-radius: 300px;
       position: relative;
       top: 50px;
-      left: 90px;
+      left: 20px;
        
     }
     .samsung{
@@ -358,15 +394,16 @@
       display: flex;
       justify-content: space-between;
         gap: .1rem; 
-      font-size: 23px;
-      font-weight: 50;
+      font-size: 15px;
+      font-weight: 30;
+
     }
     .denk a{
-      font-size: 23px;
+      font-size: 15px;
       font-weight: 80;
     }
     .asa span{
-      font-size: 20px;
+      font-size: 15px;
       font-weight: 70;
     }
 
@@ -374,3 +411,6 @@
       width: 700px;
     }
     
+    .etana img{
+
+    }
