@@ -330,7 +330,7 @@ nav li{
   }
 
   .davido{
-    background: rgb(78, 78, 238);
+    background: rgb(2, 2, 41);
     display: flex;
     justify-content: space-evenly;
   }
@@ -338,9 +338,9 @@ nav li{
     width: 550px;
   }
    .vido #ido{
-    background: white;
-    color: rgb(12, 12, 150);
-    border: 1px solid white;
+    background: rgb(2, 2, 34);
+    color: whitesmoke;
+    border: 1px solid rgb(2, 2, 34);
     border-radius: 50px;
     padding: 7px;
     font-size: 20px;
@@ -361,12 +361,13 @@ nav li{
     font-size: 50px;
    }
    .dee #woe{
-    font-size: 45px;
+    font-size: 55px;
     position: relative;
     bottom: 30px;
    }
    .dee #fif{
-    font-size: 23px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
     position: relative;
     bottom: 45px;
    }
@@ -384,12 +385,14 @@ nav li{
     font-weight: 1000;
    }
    .seyi p{
-    font-size: 23px; 
+    font-size: 23px;
    }
    
    .seyi #vib{
-    background: white;
-    border: 10px solid white;
+    background: rgb(4, 4, 43);
+    color: white;
+    border: 10px solid rgb(4, 4, 43);
+    border-radius: 50px;
 
    }
 
@@ -428,7 +431,7 @@ nav li{
     }
     .wiz a{
       background: rgb(77, 17, 77);
-       color: aqua;
+       color: whitesmoke;
        font-size: 25px;
        font-style: italic;
       border: 1px;
