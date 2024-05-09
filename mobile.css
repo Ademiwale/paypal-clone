@@ -117,6 +117,27 @@
     font-size: 2px;
   }
  
+  .one{
+    font-size: 10px;
+  }
+  .one #vic{
+    max-width: 80%;
+    max-height: 50%;
+  }
+
+ .asa{
+  max-width: 100%;
+  padding: 0, 0, 0, 0;
+ }
+ 
+ .week{
+  max-width: 100%;
+  padding: 0, 0, 0, 0,;
+ }
+ .weed{
+  max-width: 100%;
+  padding: 0, 0, 0, 0,;
+ }
     
 
 }
